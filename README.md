@@ -50,13 +50,7 @@ Git • Linux • Kafka • Terraform • REST • GraphQL • Nginx
 
 ---
 
-### 🤝 Let's Connect
-
-* 💼 LinkedIn: [https://www.linkedin.com/in/arvinfathi](https://www.linkedin.com/in/arvinfathi)
-* 🧪 Projects: [https://github.com/arvinfathi](https://github.com/arvinfathi)
-* 🌐 Portfolio: coming soon
-
----
+## 🤝 Let's Connect
 
 <p align="center">
   <i>"Build things that matter."</i>
