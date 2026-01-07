@@ -50,27 +50,6 @@ Git • Linux • Kafka • Terraform • REST • GraphQL • Nginx
 
 ---
 
-### 🛠 Featured Work
-
-* ⚙️ High-scale backend systems
-* ☁️ Cloud-native services on AWS
-* 🧩 Event-driven architectures
-* 🎬 Media & creative technology projects
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvinfathi&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinfathi&theme=transparent" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/arvinfathi](https://www.linkedin.com/in/arvinfathi)
