@@ -14,7 +14,7 @@
 ```ts
 const arvin = {
   role: "Software Engineer",
-  focus: ["Full-Stack", "TypeScript", "System Design", "Cloud"],
+  focus: ["Full-Stack", "TypeScript", "PHP", "Python", "System Design", "Cloud"],
   passions: ["Building products", "Startups", "AI", "Film & Media Tech"],
   currentlyWorkingOn: "Scalable web platforms & developer tools",
   basedIn: "UK",
