@@ -14,7 +14,7 @@
 ```ts
 const arvin = {
   role: "Software Engineer",
-  focus: ["Full-Stack", "TypeScript", "PHP", "Python", "System Design", "Cloud"],
+  focus: ["Full-Stack", "TypeScript", "PHP", "Java", "Python", "System Design", "Cloud"],
   passions: ["Building products", "Startups", "AI", "Film & Media Tech"],
   currentlyWorkingOn: "Scalable web platforms & developer tools",
   basedIn: "UK",
@@ -33,7 +33,7 @@ I enjoy working across **frontend, backend, and infrastructure** while bridging 
 **Languages & Frameworks**
 
 ```
-TypeScript • JavaScript • PHP • Python • C++ • Next.js • Laravel • VueJs • React • Node.js
+TypeScript • JavaScript • PHP • Python • Java • C++ • Next.js • Laravel • VueJs • React • Node.js
 ```
 
 **Databases & Cloud**
