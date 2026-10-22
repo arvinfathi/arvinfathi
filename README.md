@@ -39,7 +39,7 @@ TypeScript • JavaScript • PHP • Python • Java • C++ • Next.js • La
 **Databases & Cloud**
 
 ```
-MySQL • Supabase • AWS • Docker
+MySQL • PostgreSQL • Supabase • AWS • Docker
 ```
 
 **Tools & Platforms**
